@@ -3,6 +3,10 @@
 //Servo Motor,Yellow/Orange,GPIO 2,Signal pin for PWM control.
 //Potentiometer,Center Pin,GPIO 34,Analog input pin for power control.
 //Potentiometer,Outer Pins,3.3V and GND,Power for the sensor.
+
+
+
+
 #include <WiFi.h>
 #include <ThingSpeak.h>
 #include <Keypad.h>
